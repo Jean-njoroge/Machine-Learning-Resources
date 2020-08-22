@@ -1,4 +1,6 @@
-## Machine-Learning-Resources
+# Machine-Learning-Resources
+
+This repository is a knowledge and learning hub that contains all resources relating to machine learning
 
 ### Introduction to Machine Learning
 ___
