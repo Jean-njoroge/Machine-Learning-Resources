@@ -15,5 +15,5 @@ This repository is a knowledge and learning hub that contains all resources rela
 ) 
 
 _____
-# Nenture Capital
+# Venture Capital
 [Top VC Virms](https://growthlist.co/blog/ai-vc)
