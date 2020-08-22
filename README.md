@@ -1,6 +1,7 @@
 ## Machine-Learning-Resources
 
 ### Introduction to Machine Learning
+--
 
 ### [Supervise Learning Machine Learning ](https://github.com/ShiroJean/Breast-cancer-risk-prediction/blob/master/NB1_IdentifyProblem%2BDataClean.ipynb): Identifying the problem and Getting data.
 
