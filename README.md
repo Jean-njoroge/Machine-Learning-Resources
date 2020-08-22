@@ -2,11 +2,9 @@
 
 This repository is a knowledge and learning hub that contains all resources relating to machine learning
 
-### Introduction to Machine Learning
-___
+##Introduction to Machine Learning
 
-## Welcome to my GitHub repository on Using Predictive Analytics model to diagnose breast cancer.
----
+### Types of Machine Learnng
 
 
 ### [Supervise Learning Machine Learning ](https://github.com/ShiroJean/Breast-cancer-risk-prediction/blob/master/NB1_IdentifyProblem%2BDataClean.ipynb): Identifying the problem and Getting data.
