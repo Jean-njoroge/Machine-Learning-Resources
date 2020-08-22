@@ -9,9 +9,8 @@ This repository is a knowledge and learning hub that contains all resources rela
 
 
 #### 1. [Supervise Learning Machine Learning ](https://github.com/Jean-njoroge/Machine-Learning-Resources/tree/master/supervised_learning)
-Folder contains information on Supervised learning approaches, how it worked and type of algorithms used in supervised learning
-
-Algorithms in supervised learning learning on a **labeled dataset**, containing keys from which evaluation process will be based on
+ * Folder contains information on Supervised learning approaches, how it worked and type of algorithms used in supervised learning
+ * Algorithms in supervised learning learning on a **labeled dataset**, containing keys from which evaluation process will be based on
 
  #### 2. [Unsupervised Machine Learning]
  Algorithm in unsupervised learning are based in **unalabled data** trying to make sense through extraction of features and petterns without supervision
