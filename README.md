@@ -8,7 +8,7 @@ This repository is a knowledge and learning hub that contains all resources rela
 ### Types of Machine Learnng
 
 
-#### 1. [Supervise Learning Machine Learning ](https://github.com/Jean-njoroge/Machine-Learning-Resources/tree/master/supervised_learning)
+#### 1. [Supervised Learning Machine Learning ](https://github.com/Jean-njoroge/Machine-Learning-Resources/tree/master/supervised_learning)
  * Folder contains information on Supervised learning approaches, how it worked and type of algorithms used in supervised learning
  * Algorithms in supervised learning learning on a **labeled dataset**, containing keys from which evaluation process will be based on
 
