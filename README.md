@@ -2,6 +2,9 @@
 
 This repository is a knowledge and learning hub that contains all resources relating to machine learning
 
+![Ensemble learning architeceture](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Machine_learning.png
+) 
+
 ## Introduction to Machine Learning
 
 ### Types of Machine Learnng
