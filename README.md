@@ -14,5 +14,6 @@ This repository is a knowledge and learning hub that contains all resources rela
 ![Ensemble learning architeceture](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Machine_learning.png
 ) 
 
-
-
+_____
+# Nenture Capital
+[Top VC Virms](https://growthlist.co/blog/ai-vc)
