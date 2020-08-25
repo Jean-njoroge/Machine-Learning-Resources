@@ -12,3 +12,12 @@ Fully labeled means that each example in the training dataset is tagged with the
 ## 3. How it Works
 
 ## 4. Algorithms/Business Use Cases
+
+| Algorithm | Brief Description | Use Case |
+| --- | --- | -- |
+| Linear Regression | List all new or modified files |
+| Logistic Regression | Show file differences that haven't been staged |
+| Naives Bayes | List all new or modified files |
+| Linear/Quadratic Discrimation Analysis | Show file differences that haven't been staged |
+|Ada Boost | List all new or modified files |
+| Logistic Regression | Show file differences that haven't been staged |
