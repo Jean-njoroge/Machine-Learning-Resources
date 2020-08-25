@@ -13,7 +13,7 @@ Most recent advances in AI have been achieved by applying machine learning to ve
 
 This repository is a knowledge and learning hub that contains all resources relating to machine learning
 
-| Command | Description |
+| Type of ML Approach | Description |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
