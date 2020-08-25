@@ -27,9 +27,11 @@ This repository is a knowledge and learning hub that contains all resources rela
  Algorithm in unsupervised learning are based in **unalabled data** trying to make sense through extraction of features and petterns without supervision
  
  #### 3. [Semi - Supervised Machine Learning]
+ 
+ ## Deep learning 
  #### 4. [Reinforcement Learning]
 
-![Ensemble learning architeceture](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Machine_learning.png
+[Ensemble learning architeceture](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Machine_learning.png
 ) 
 
 _____
