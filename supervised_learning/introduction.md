@@ -1,6 +1,10 @@
 # Supervised Learning
 
 ## 1. What is Supervised Learning 
+
+Supervised learning is typically done in the context of:
+1. **Classification**, when we want to map input to output labels, or
+2. **regression** when we want to map input to a continuous output
 With supervised machine learning, the algorithm learns from labeled data.
 
 If you’re learning a task under supervision, someone is present judging whether you’re getting the right answer. Similarly, in supervised learning, that means having a full set of labeled data while training an algorithm.
