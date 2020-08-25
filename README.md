@@ -2,7 +2,7 @@
 
 AI is defined as ability of a machine to perform cognitive functions we associate with human minds, such as perceiving, reasoning, learning, interacting with the environment, problem solving, and even exercising creativity. Examples of technologies that enable AI to solve business problems are robotics and autonomous vehicles, computer vision, language, virtual agents, and machine learning.
 
-[simple definition of AI](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/ai-machine-learning-deep-learning-1.jpg)
+![simple definition of AI](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/ai-machine-learning-deep-learning-1.jpg)
 
 
 
