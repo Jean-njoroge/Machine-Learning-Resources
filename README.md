@@ -4,6 +4,8 @@ AI is defined as ability of a machine to perform cognitive functions we associat
 
 ![simple definition of AI](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/ai-machine-learning-deep-learning-1.jpg)
 
+[Source](https://www.kdnuggets.com/2017/07/rapidminer-ai-machine-learning-deep-learning.html)
+
 
 
 ## Machine-Learning
