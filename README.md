@@ -15,6 +15,11 @@ This repository is a knowledge and learning hub that contains all resources rela
 
 ### Types of Machine Learnng
 
+| Ml-Approach| Description | Notebooks
+| --- | --- |
+| Supervised Learning | Folder contains information on Supervised learning approaches, how it workes and type of algorithms used in supervised learning |
+| Un-Supervised Learning | Show file differences that haven't been staged |
+| Semi-Supervised Learning | Show file differences that haven't been staged |
 
 #### 1. [Supervised Learning Machine Learning ](https://github.com/Jean-njoroge/Machine-Learning-Resources/tree/master/supervised_learning)
  * Folder contains information on Supervised learning approaches, how it workes and type of algorithms used in supervised learning
