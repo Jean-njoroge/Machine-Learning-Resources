@@ -15,12 +15,12 @@ This repository is a knowledge and learning hub that contains all resources rela
 
 | Type of ML Approach | Description |
 | --- | --- |
-| git status | List all new or modified files |
+| git st | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
 ### Types of Machine Learnng
 
-| Ml-Approach| Description | Notebooks
+| Ml-Approach| Description | Notebooks |
 | --- | --- |
 | Supervised Learning | Folder contains information on Supervised learning approaches, how it workes and type of algorithms used in supervised learning |
 | Un-Supervised Learning | Show file differences that haven't been staged |
