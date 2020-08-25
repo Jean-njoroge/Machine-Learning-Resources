@@ -4,12 +4,11 @@
 
 Supervised learning is typically done in the context of:
 1. **Classification**, when we want to map input to output labels, or
-2. **regression** when we want to map input to a continuous output
-With supervised machine learning, the algorithm learns from labeled data.
+2. **Regression** when we want to map input to a continuous output
 
-If you’re learning a task under supervision, someone is present judging whether you’re getting the right answer. Similarly, in supervised learning, that means having a full set of labeled data while training an algorithm.
-
-Fully labeled means that each example in the training dataset is tagged with the answer the algorithm should come up with on its own. So, a labeled dataset of flower images would tell the model which photos were of roses, daisies and daffodils. When shown a new image, the model compares it to the training examples to predict the correct label.
+* With supervised machine learning, the algorithm learns from labeled data.
+* Fully labeled means that each example in the training dataset is tagged with the answer the algorithm should come up with on its own. 
+* So, a labeled dataset of flower images would tell the model which photos were of roses, daisies and daffodils. When shown a new image, the model compares it to the training examples to predict the correct label.
 
 ## 2. When to use Supervised Learning
 
