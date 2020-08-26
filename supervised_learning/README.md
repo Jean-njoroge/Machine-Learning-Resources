@@ -24,5 +24,8 @@ Supervised learning is typically done in the context of:
 | |Logistic Regression| |
 | |Naive Bayes| |
 | |Stochastic Gradient Descent (SGD), Coordinate Descent (CD), and Quasi-Newton (QN) (including L-BFGS and OWL-QN) solvers for linear models | |
-| **Nonlinear Models for Regression or Classification**| Random Forest (RF) Classification| |
-| |Inference for decision tree-based models| |
+| **Nonlinear Models for Regression or Classification**| Random Forest| |
+| |Decision tree-based models| |
+| |	K-Nearest Neighbors (KNN)| |
+| |Support Vector Machine Classifier| |
+
