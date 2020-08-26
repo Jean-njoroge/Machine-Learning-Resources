@@ -26,7 +26,7 @@ This repository is a knowledge and learning hub that contains all resources rela
  
  #### General Purpose Machine Learning
 
-[scikit-learn](https://scikit-learn.org/stable/)
+[scikit-learn](https://scikit-learn.org/stable/)- Machine learning in Python
 
 _____
 # Venture Capital
