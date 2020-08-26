@@ -19,9 +19,10 @@ Supervised learning is typically done in the context of:
 
 | Category | Algorithm | Notes |
 |---|---| ---| 
-| **Linear Models for Regression or Classification?**|Ordinary Linear Regression(OLS) |  |
+| **Linear Models for Regression or Classification**|Ordinary Linear Regression(OLS) |  |
 | |Linear Regression with Lasso or Ridge Regularization |  |
 | |Logistic Regression| |
-| |Naive Bayes| Show file differences that haven't been staged |
-| |Stochastic Gradient Descent (SGD), Coordinate Descent (CD), and Quasi-Newton (QN) (including L-BFGS and OWL-QN) solvers for linear models | List all new or modified files |
-| **Nonlinear Models for Regression or Classification**| | Show file differences that haven't been staged |
+| |Naive Bayes| |
+| |Stochastic Gradient Descent (SGD), Coordinate Descent (CD), and Quasi-Newton (QN) (including L-BFGS and OWL-QN) solvers for linear models | |
+| **Nonlinear Models for Regression or Classification**| Random Forest (RF) Classification| |
+| |Inference for decision tree-based models| |
