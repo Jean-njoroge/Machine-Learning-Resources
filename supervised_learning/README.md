@@ -19,9 +19,9 @@ Supervised learning is typically done in the context of:
 
 | Category| Algorithm | Notes |
 | --|--| --| 
-| Linear Models for Regression or Classification|Ordinary Linear Regression(OLS) |  |
+| **Linear Models for Regression or Classification?**|Ordinary Linear Regression(OLS) |  |
 | |Linear Regression with Lasso or Ridge Regularization |  |
-| |Naives Bayes | List all new or modified files |
-| |Linear/Quadratic Discrimation Analysis | Show file differences that haven't been staged |
-| |Ada Boost | List all new or modified files |
-| |Logistic Regression | Show file differences that haven't been staged |
+| |Logistic Regression| List all new or modified files |
+| |Naive Bayes| Show file differences that haven't been staged |
+| |Stochastic Gradient Descent (SGD), Coordinate Descent (CD), and Quasi-Newton (QN) (including L-BFGS and OWL-QN) solvers for linear models | List all new or modified files |
+| | | Show file differences that haven't been staged |
