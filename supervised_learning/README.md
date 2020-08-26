@@ -19,8 +19,10 @@ Supervised learning is typically done in the context of:
 If you have a set of existing data including the target values that you wish to predict (labels) then you probably need supervised learning (e.g. is something true or false; or does this data represent a fish or cat or a dog? Simply put - you already have examples of right answers and you are just telling the algorithm what to predict). You also need to distinguish whether you need a classification or regression. Classification is when you need to categorize the predicted values into given classes (e.g. is it likely that this person develops a diabetes - yes or no? In other words - discrete values) and regression is when you need to predict continuous values (1,2, 4.56, 12.99, 23 etc.). There are many supervised learning algorithms to choose from (k-nearest neighbors, naive bayes, SVN, ridge..)
 
 ## How it Works
+__
 ![](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/Supervised_machine_learning_in_a_nutshell.png)
 ## Algorithms
+__
 
 | Category | Algorithm | Notes |
 |---|---| ---| 
@@ -35,4 +37,5 @@ If you have a set of existing data including the target values that you wish to 
 | |Support Vector Machine Classifier| |
 
 ## Business Use Cases
+__
 
