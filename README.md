@@ -22,11 +22,11 @@ This repository is a knowledge and learning hub that contains all resources rela
 | Semi-Supervised Learning | Show file differences that haven't been staged |
 
  
- ## Deep learning 
- #### 4. [Reinforcement Learning]
+ ## Machine Learning Tools
+ 
+ #### General Purpose Machine Learning
 
-[Ensemble learning architeceture](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Machine_learning.png
-) 
+[scikit-learn](https://scikit-learn.org/stable/)
 
 _____
 # Venture Capital
