@@ -20,7 +20,7 @@ If you have a set of existing data including the target values that you wish to 
 
 ## How it Works
 ![](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/Supervised_machine_learning_in_a_nutshell.png)
-## 4. Algorithms/Business Use Cases
+## Algorithms
 
 | Category | Algorithm | Notes |
 |---|---| ---| 
@@ -33,4 +33,6 @@ If you have a set of existing data including the target values that you wish to 
 | |Decision tree-based models| |
 | |	K-Nearest Neighbors (KNN)| |
 | |Support Vector Machine Classifier| |
+
+## Business Use Cases
 
