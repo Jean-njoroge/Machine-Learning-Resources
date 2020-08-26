@@ -3,6 +3,8 @@
 
 ## What is Supervised Learning 
 
+Majority of applied machine learning uses supervised learning. Supervised learning is where you have input variables (X) and an output variable (Y ) and you use an algorithm to learn the mapping function from the input to the output.
+
 Supervised learning is typically done in the context of:
 1. **Classification**, when we want to map input to output labels, or
 2. **Regression** when we want to map input to a continuous output
