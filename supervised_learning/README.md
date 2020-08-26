@@ -17,8 +17,8 @@ Supervised learning is typically done in the context of:
 
 ## 4. Algorithms/Business Use Cases
 
-| Algorithm | Brief Description | Use Case |
-| --- | --- | -- |
+| Category| Algorithm | Brief Description | Use Case |
+| ---|--- | --- | -- |
 | Linear Regression | List all new or modified files |
 | Logistic Regression | Show file differences that haven't been staged |
 | Naives Bayes | List all new or modified files |
