@@ -20,8 +20,8 @@ Supervised learning is typically done in the context of:
 | Category| Algorithm | Brief Description | Use Case |
 | ---|--- | --- | -- |
 | |Linear Models for Regression or Classification|Linear Regression | List all new or modified files |
-| Logistic Regression | Show file differences that haven't been staged |
-| Naives Bayes | List all new or modified files |
-| Linear/Quadratic Discrimation Analysis | Show file differences that haven't been staged |
-|Ada Boost | List all new or modified files |
-| Logistic Regression | Show file differences that haven't been staged |
+| |Logistic Regression | Show file differences that haven't been staged |
+| |Naives Bayes | List all new or modified files |
+| |Linear/Quadratic Discrimation Analysis | Show file differences that haven't been staged |
+| |Ada Boost | List all new or modified files |
+| |Logistic Regression | Show file differences that haven't been staged |
