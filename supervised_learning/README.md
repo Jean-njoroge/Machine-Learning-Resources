@@ -18,7 +18,7 @@ Supervised learning is typically done in the context of:
 ## 4. Algorithms/Business Use Cases
 
 | Category| Algorithm | Notes |
-| ---|--- | --- | 
+| --|--| --| 
 | Linear Models for Regression or Classification|Ordinary Linear Regression(OLS) |  |
 | |Linear Regression with Lasso or Ridge Regularization |  |
 | |Naives Bayes | List all new or modified files |
