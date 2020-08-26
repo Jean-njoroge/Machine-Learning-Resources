@@ -14,7 +14,7 @@ Supervised learning is typically done in the context of:
 ## 2. When to use Supervised Learning
 
 ## 3. How it Works
-
+![](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/Supervised_machine_learning_in_a_nutshell.png)
 ## 4. Algorithms/Business Use Cases
 
 | Category | Algorithm | Notes |
