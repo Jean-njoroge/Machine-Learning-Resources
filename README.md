@@ -30,6 +30,14 @@ This repository is a knowledge and learning hub that contains all resources rela
 * [cuML](https://github.com/rapidsai/cuml)-RAPIDS Machine Learning Library.
 * [Dask](https://dask.org/)-Flexible library for parallel computing in Python.
 
+
+## Deep Learning Frameworks
+[Tensorflow](https://www.tensorflow.org/)TensorFlow is an end-to-end open source platform for machine learning
+[PyTorch](https://pytorch.org/)-Open source ML and DL framework
+[Chainer](https://chainer.org/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks. Supports CUDA computation & requires a few lines of code of GPU
+
+DNN frameworks like TensorFlow, PyTorch, Chainer.
+
 _____
 # Venture Capital
 [Top VC Virms](https://growthlist.co/blog/ai-vc)
