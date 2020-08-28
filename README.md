@@ -36,7 +36,7 @@ This repository is a knowledge and learning hub that contains all resources rela
 * [PyTorch](https://pytorch.org/)-Open source ML and DL framework
 * [Chainer](https://chainer.org/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks. Supports CUDA computation & requires a few lines of code of GPU
 
-DNN frameworks like TensorFlow, PyTorch, Chainer.
+
 
 _____
 # Venture Capital
