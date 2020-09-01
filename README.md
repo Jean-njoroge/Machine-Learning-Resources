@@ -39,5 +39,7 @@ This repository is a knowledge and learning hub that contains all resources rela
 
 
 _____
-# Venture Capital
-[Top VC Virms](https://growthlist.co/blog/ai-vc)
+# Data-Driven Use Cases
+* [DataStories](https://dataprophet.com/) -Manufacturing
+* [DataProphet](https://datastories.com/)
+* [Top VC Virms](https://growthlist.co/blog/ai-vc)
