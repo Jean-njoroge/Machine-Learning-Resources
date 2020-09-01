@@ -44,3 +44,4 @@ _____
 * [DataProphet](https://datastories.com/) -AI firm that enables manufacturers
 * [Delta Analytics](http://www.deltanalytics.org/) - providing free data consulting and data services & build technical capacity in communities around the world
 * [Top VC Virms](https://growthlist.co/blog/ai-vc)
+* [The Rise of AI-powered company in post crisis world](https://www.bcg.com/en-us/publications/2020/business-applications-artificial-intelligence-post-covid)-Article
