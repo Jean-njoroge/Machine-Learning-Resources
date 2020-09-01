@@ -43,6 +43,7 @@ _____
 * [DataStories](https://dataprophet.com/) - A.I. tool that within 30 minutes explains how you can understand, predict, and drive your business KPIs 
 * [DataProphet](https://datastories.com/) -AI firm that enables manufacturers
 * [Delta Analytics](http://www.deltanalytics.org/) - providing free data consulting and data services & build technical capacity in communities around the world
-* [datascope](https://datascopesystems.com/)
+* [datascope systems](https://datascopesystems.com/) -supplying a range of innovative products for the construction industry
+* [Darascope analytics](https://datascopeanalytics.com/) -Combines data, design, and machine learning to build intelligent products and services that improve people's lives
 * [Top VC Virms](https://growthlist.co/blog/ai-vc)
 * [The Rise of AI-powered company in post crisis world](https://www.bcg.com/en-us/publications/2020/business-applications-artificial-intelligence-post-covid)-Article
