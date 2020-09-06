@@ -30,7 +30,7 @@ If you have a set of existing data including the target values that you wish to 
 |---|---| ---| 
 | **Linear Models for Regression or Classification**|Ordinary Linear Regression(OLS) | establish a relationship between the dependent and independent variables |
 | |Linear Regression with Lasso or Ridge Regularization |  |
-| |Logistic Regression| |
+| |Logistic Regression| predicts the probability of true/false or yes/no responses on the basis of the independent variable’s value. |
 | |Naive Bayes| |
 | |Stochastic Gradient Descent (SGD), Coordinate Descent (CD), and Quasi-Newton (QN) (including L-BFGS and OWL-QN) solvers for linear models | |
 | **Nonlinear Models for Regression or Classification**| Random Forest| |
