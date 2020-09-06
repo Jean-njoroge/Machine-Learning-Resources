@@ -13,6 +13,7 @@ Most recent advances in AI have been achieved by applying machine learning to ve
 
 This repository is a knowledge and learning hub that contains all resources relating to machine learning
 
+
 ### Types of Machine Learnng
 
 | Ml-Approach| Description | Notebooks |
@@ -21,6 +22,8 @@ This repository is a knowledge and learning hub that contains all resources rela
 | Un-Supervised Learning | Show file differences that haven't been staged |
 | Semi-Supervised Learning | Show file differences that haven't been staged |
 
+### Tour of ML Algorithms
+[Machine learning alogrithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
  
  ## Machine Learning Tools
  
