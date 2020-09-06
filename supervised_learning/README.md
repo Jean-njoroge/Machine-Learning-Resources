@@ -28,7 +28,7 @@ If you have a set of existing data including the target values that you wish to 
 
 | Category | Algorithm | Notes |
 |---|---| ---| 
-| **Linear Models for Regression or Classification**|Ordinary Linear Regression(OLS) |  |
+| **Linear Models for Regression or Classification**|Ordinary Linear Regression(OLS) | establish a relationship between the dependent and independent variables |
 | |Linear Regression with Lasso or Ridge Regularization |  |
 | |Logistic Regression| |
 | |Naive Bayes| |
