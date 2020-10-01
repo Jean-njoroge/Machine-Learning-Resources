@@ -38,4 +38,7 @@ If you have a set of existing data including the target values that you wish to 
 | |	K-Nearest Neighbors (KNN)| |
 | |Support Vector Machine Classifier| |
 
+## Cheat sheet
+[data science cheat sheet](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
+
 ## Business Use Cases
