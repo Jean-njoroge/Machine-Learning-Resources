@@ -14,4 +14,4 @@ Different techniques can be used to prepare or train the linear regression equat
 
 
 ## References
-1. (Linear Regression and Gradient Descent)[https://www.youtube.com/watch?v=4b4MUYve_U8&ab_channel=stanfordonline]
+1. [Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&ab_channel=stanfordonline)
