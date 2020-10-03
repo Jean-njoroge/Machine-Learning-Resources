@@ -17,15 +17,24 @@ If you have a set of existing data including the target values that you wish to 
 ## How it Works
 
 ![](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/Supervised_machine_learning_in_a_nutshell.png)
-## Algorithms
+
 
 ##  Supervised learning Context
 Supervised learning is typically done in the context of:
 1. **Classification**, when we want to map input to output labels, or
 2. **Regression** when we want to map input to a continuous output
 
+### Regression
+
+* Regression task/analysis predicts a continuous outcome. Given a number of predictor(**exploratory**) variable and a continous response variable (**outcome**), we try to find a relationship between these variables that allows us to predict an outcome.
+* Predictor variables are also commonly referred to as features in machine learning
+* response variables are referred to as target variables
+
+### Classification
 
 
+
+## Algorithms
 | Category | Algorithm | Notes |
 |---|---| ---| 
 | **Linear Models for Regression or Classification**|Ordinary Linear Regression(OLS) | establish a relationship between the dependent and independent variables |
