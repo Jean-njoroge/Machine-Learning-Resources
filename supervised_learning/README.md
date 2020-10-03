@@ -6,12 +6,6 @@ Majority of applied machine learning uses supervised learning.
 
  Supervised learning is where you have input variables (X) and an output variable (Y ) and you use an algorithm to learn the mapping function from the input to the output.The goal of all supervised machine learning algorithms is to best estimate a target function (f) that maps input data (X) onto output variables (Y ). This describes all classification and regression problems. 
 
-
-Supervised learning is typically done in the context of:
-1. **Classification**, when we want to map input to output labels, or
-2. **Regression** when we want to map input to a continuous output
-
-
 ## When to use Supervised Learning
 
 * With supervised machine learning, the algorithm learns from labeled data.
@@ -24,6 +18,12 @@ If you have a set of existing data including the target values that you wish to 
 
 ![](https://github.com/Jean-njoroge/Machine-Learning-Resources/blob/master/Images/Supervised_machine_learning_in_a_nutshell.png)
 ## Algorithms
+
+##  Supervised learning Context
+Supervised learning is typically done in the context of:
+1. **Classification**, when we want to map input to output labels, or
+2. **Regression** when we want to map input to a continuous output
+
 
 
 | Category | Algorithm | Notes |
