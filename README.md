@@ -46,6 +46,7 @@ _____
 * [datascope systems](https://datascopesystems.com/) -supplying a range of innovative products for the construction industry
 * [Darascope analytics](https://datascopeanalytics.com/) -Combines data, design, and machine learning to build intelligent products and services that improve people's lives
 * [Ravel law](https://home.ravellaw.com/) - legal analytics and research company founded in 2012
+* [https://datasaur.ai/](intuitive interface for all your Natural Language Processing related tasks)
 * [Top VC Virms](https://growthlist.co/blog/ai-vc)
 * [The Rise of AI-powered company in post crisis world](https://www.bcg.com/en-us/publications/2020/business-applications-artificial-intelligence-post-covid)-Article
 * [ML in Cyber-Security](https://github.com/jivoi/awesome-ml-for-cybersecurity#-datasets)
