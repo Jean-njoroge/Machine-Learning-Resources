@@ -11,3 +11,7 @@ The objective of performing a regression is to build a model to express the rela
 ## Different Techniques of Linear Regression
 Different techniques can be used to prepare or train the linear regression equation from data, the most common of which is called Ordinary Least Squares
 
+
+
+## References
+1. (Linear Regression and Gradient Descent)[https://www.youtube.com/watch?v=4b4MUYve_U8&ab_channel=stanfordonline]
