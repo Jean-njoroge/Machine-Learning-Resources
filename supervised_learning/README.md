@@ -56,4 +56,4 @@ Supervised learning is typically done in the context of:
 [data science cheat sheet](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
 
 ## Business Use Cases
-1. [Company Profit estimation based on certain variables](https://www.youtube.com/watch?v=NUXdtN1W1FE&ab_channel=Simplilearn)
+1. [Company profit estimation based on certain variables](https://www.youtube.com/watch?v=NUXdtN1W1FE&ab_channel=Simplilearn)
