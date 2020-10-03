@@ -24,13 +24,15 @@ Supervised learning is typically done in the context of:
 1. **Classification**, when we want to map input to output labels, or
 2. **Regression** when we want to map input to a continuous output
 
-#### Regression
+#### Regression for predicting continous outcomes
 
 * Regression task/analysis predicts a continuous outcome. Given a number of predictor(**exploratory**) variable and a continous response variable (**outcome**), we try to find a relationship between these variables that allows us to predict an outcome.
 * Predictor variables are also commonly referred to as features in machine learning
 * response variables are referred to as target variables
 
-#### Classification
+#### Classification for predicting class labels
+* Classification is a subcategory of supervised learning where the goal is to predict the categorical class labels of new instances, based on past observations. * * * Those class labels are discrete, unordered values that can be understood as the group memberships of the instances. 
+* Example email spam detection represents a typical example of a binary classification task, where the machine learning algorithm learns a set of rules in order to distinguish between two possible classes: spam and non-spam emails.
 
 
 
