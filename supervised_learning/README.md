@@ -33,7 +33,9 @@ Supervised learning is typically done in the context of:
 #### Classification for predicting class labels
 * Classification is a subcategory of supervised learning where the goal is to predict the categorical class labels of new instances, based on past observations. 
 * Those class labels are discrete, unordered values that can be understood as the group memberships of the instances. 
-* Example email spam detection represents a typical example of a binary classification task, where the machine learning algorithm learns a set of rules in order to distinguish between two possible classes: spam and non-spam emails.
+* spam detection represents a typical example of a binary classification task, where the machine learning algorithm learns a set of rules in order to distinguish between two possible classes: spam and non-spam emails.
+* set of class labels does not have to be of a binary nature. The predictive model learned by a supervised learning algorithm can assign any class label that was presented in the training dataset to a new, unlabeled instance.
+
 
 
 
