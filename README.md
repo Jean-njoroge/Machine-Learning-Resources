@@ -37,6 +37,7 @@ This repository is a knowledge and learning hub that contains all resources rela
 * [Chainer](https://chainer.org/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks. Supports CUDA computation & requires a few lines of code of GPU
 
 
+* [Regenerative Models](https://blog.prolego.io/the-ai-canvas-7a8717cddbe9)
 
 _____
 # Data-Driven Use Cases
