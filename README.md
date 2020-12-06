@@ -52,3 +52,7 @@ _____
 * [The Rise of AI-powered company in post crisis world](https://www.bcg.com/en-us/publications/2020/business-applications-artificial-intelligence-post-covid)-Article
 * [ML in Cyber-Security](https://github.com/jivoi/awesome-ml-for-cybersecurity#-datasets)
 * [AI In Security]( https://pelotoninnovations.com/process/)
+
+# ML IN Production
+
+* https://elvissaravia.substack.com/p/my-recommendations-to-learn-machine
